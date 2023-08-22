@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bhavitha Gorrepati
-- 👀 I’m interested in Web Development and Data Science
+- 👀 I’m interested in Full Stack Development and Data Science
 - 🌱 I’m currently doing masters in Computer Science
 - 💞️ I’m looking to collaborate on Angular and React Projects.
 - 📫 How to reach me https://www.linkedin.com/in/bhavithagorrepati/
